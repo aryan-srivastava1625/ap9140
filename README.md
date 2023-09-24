@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
-<img align="Right" alt="coding" width="400" src="https://images.app.goo.gl/sxhpXYqDiFwXUgEMA"> 
+<img align="Right" alt="coding" width="400" src="![image](https://github.com/ap9140/ap9140/assets/103809985/78ff41e0-d8ee-4747-a467-665681651f8f)
+"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ap9140&label=Profile%20views&color=0e75b6&style=flat" alt="ap9140" /> </p>
 
