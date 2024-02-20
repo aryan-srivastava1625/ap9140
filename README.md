@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning Backend Development **React JS AND Node Js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aryan-srivastava-60215a220/**
+- 
+- ![](https://github-profile-trophy.vercel.app/?username=aryan-srivastava1625&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
